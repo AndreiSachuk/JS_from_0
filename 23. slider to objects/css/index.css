@@ -1,0 +1,9 @@
+.first-slider{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.first-slider .image-slide{
+    height: 400px;
+}
